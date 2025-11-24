@@ -31,7 +31,7 @@ ground_height = 4.0
 # R_2D = L / (σ_eff * w) where σ_eff = 2086 S
 resistor1_width = 0.2  # mm - 200 µm wide (lower resistance)
 resistor2_width = 0.1  # mm - 100 µm wide (higher resistance, 2x current density)
-resistor_length = 20.0  # mm
+resistor_length = 100.0  # mm
 
 # Material (uniform copper everywhere!)
 copper_thickness = 0.035  # mm
